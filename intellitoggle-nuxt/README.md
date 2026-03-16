@@ -1,5 +1,5 @@
 
-## DEPLOYED:
+## DEPLOYED(note may take a min or two to start up):
  
 https://intellitoggleassignment.onrender.com
 
