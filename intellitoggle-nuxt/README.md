@@ -1,4 +1,8 @@
 
+## DEPLOYED:
+ 
+https://intellitoggleassignment.onrender.com
+
 ## TO Run locally
 
 1. **Install dependencies:**
