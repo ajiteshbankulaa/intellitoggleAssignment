@@ -1,0 +1,20 @@
+{
+  "name": "intellitoggle-homepage-assignment",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "nuxt": "^3.13.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.1"
+  },
+  "overrides": {
+    "serialize-javascript": "^7.0.4"
+  }
+}
